@@ -2,7 +2,7 @@
 
 - (tested version 224.15, most probably works on others, feel free to tell me if it doesnt)
 
-## Read full instructions before an attempt, trying step by step will prove to be tricky
+## Read full instructions before an attempt, step by step will prove to be tricky
    > [!IMPORTANT]
 > First, make sure to toggle on the theme with themes+ support. then, go into themes+ settings and double tap "themes+ is inactive" for dev mode
 >
