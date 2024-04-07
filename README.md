@@ -1,6 +1,6 @@
 # Simple workaround for using themes+ on pyoncord, any theme!
 
-- (tested version 224.15, most probably works on others, feel free to tell me if it doesnt)
+- (Tested version 224.15, most probably works on others, feel free to tell me if it doesnt)
 
 ## Read full instructions before an attempt, step by step will prove to be tricky
    > [!IMPORTANT]
@@ -24,3 +24,5 @@ Now, do this RIGHT AFTER the error shows up.
  - Reopen discord and themes+ should finally work! you will get your custom iconpack and can freely switch to another theme even without themes+ support, it will keep the iconpack enabled 
 
 enjoy :D
+
+> Credit goes to @Rairof on discord for finding this! thank you :)
