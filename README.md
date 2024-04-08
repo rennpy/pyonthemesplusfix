@@ -1,5 +1,7 @@
 # Simple workaround for using themes+ on pyoncord, any theme!
 
+Install from ```https://vendetta.nexpid.xyz/themes-plus/```
+
 - (Tested version 224.15, most probably works on others, feel free to tell me if it doesnt)
 
 ## Read full instructions before an attempt, step by step will prove to be tricky
