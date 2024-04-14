@@ -14,7 +14,7 @@ Install by copy pasting ```https://vendetta.nexpid.xyz/themes-plus/``` in plugin
  
  
  
-After that, go back to the dev settings of themes+ and look at the force icons tab. you should be able to select between 3 types of icon packs now as seen 
+After a restart, go back to the dev settings of themes+ and look at the force icons tab. you should be able to select between 3 types of icon packs now as seen 
  [here](https://github.com/rennpy/pyonthemesplusfix/assets/158360149/6622e96d-b25b-43d5-bcce-77afc68798c3). 
  
  **Choose your icon pack, press reload, then go back (you should see** [this error message](https://github.com/rennpy/pyonthemesplusfix/assets/158360149/8bb42f45-568c-4b56-9c96-54840a924d51))
